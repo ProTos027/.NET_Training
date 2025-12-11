@@ -1,0 +1,15 @@
+/workspaces/.NET_Training/tempApp/bin/Debug/net8.0/tempApp
+/workspaces/.NET_Training/tempApp/bin/Debug/net8.0/tempApp.deps.json
+/workspaces/.NET_Training/tempApp/bin/Debug/net8.0/tempApp.runtimeconfig.json
+/workspaces/.NET_Training/tempApp/bin/Debug/net8.0/tempApp.dll
+/workspaces/.NET_Training/tempApp/bin/Debug/net8.0/tempApp.pdb
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/tempApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/tempApp.AssemblyInfoInputs.cache
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/tempApp.AssemblyInfo.cs
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/tempApp.csproj.CoreCompileInputs.cache
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/tempApp.sourcelink.json
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/tempApp.dll
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/refint/tempApp.dll
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/tempApp.pdb
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/tempApp.genruntimeconfig.cache
+/workspaces/.NET_Training/tempApp/obj/Debug/net8.0/ref/tempApp.dll
