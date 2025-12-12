@@ -13,24 +13,32 @@ namespace A{
             Console.WriteLine("Course: " + course);
         }
     }
+
+    class Len
+    {
+        public int count= 0;
+        public Len(string str){
+            foreach(char c in str){
+                count++;
+            }
+        }
+        public void showLen(){
+            Console.WriteLine("Length of the string is: " + count);
+        }
+    }
     class D1{
         public static void Man(){
-            Student Student1 = new Student();
-            Student1.name = "Alice";
-            Student1.age = 20;
-            Student1.contact = 1234567890;
-            Student1.course = "Computer Science";
+            // Student Student1 = new Student();
+            // Student1.name = "Alice";
+            // Student1.age = 20;
+            // Student1.contact = 1234567890;
+            // Student1.course = "Computer Science";
 
-            Student Student2 = new Student();
-            Student2.name = "Bob";
-            Student2.age = 22;
-            Student2.contact = 9876543210;
-            Student2.course = "Mathematics";
+            // Console.WriteLine("Student 1 Details:");
+            // Student1.Details();
 
-            Console.WriteLine("Student 1 Details:");
-            Student1.Details();
-            Console.WriteLine();
-            Student2.Details();
+            Len len1 = new Len(Console.ReadLine() ?? "");
+            len1.showLen();
         }
     }
 }
