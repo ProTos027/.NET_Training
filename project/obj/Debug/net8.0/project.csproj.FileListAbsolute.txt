@@ -1,0 +1,15 @@
+/workspaces/.NET_Training/project/bin/Debug/net8.0/project
+/workspaces/.NET_Training/project/bin/Debug/net8.0/project.deps.json
+/workspaces/.NET_Training/project/bin/Debug/net8.0/project.runtimeconfig.json
+/workspaces/.NET_Training/project/bin/Debug/net8.0/project.dll
+/workspaces/.NET_Training/project/bin/Debug/net8.0/project.pdb
+/workspaces/.NET_Training/project/obj/Debug/net8.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.NET_Training/project/obj/Debug/net8.0/project.AssemblyInfoInputs.cache
+/workspaces/.NET_Training/project/obj/Debug/net8.0/project.AssemblyInfo.cs
+/workspaces/.NET_Training/project/obj/Debug/net8.0/project.csproj.CoreCompileInputs.cache
+/workspaces/.NET_Training/project/obj/Debug/net8.0/project.sourcelink.json
+/workspaces/.NET_Training/project/obj/Debug/net8.0/project.dll
+/workspaces/.NET_Training/project/obj/Debug/net8.0/refint/project.dll
+/workspaces/.NET_Training/project/obj/Debug/net8.0/project.pdb
+/workspaces/.NET_Training/project/obj/Debug/net8.0/project.genruntimeconfig.cache
+/workspaces/.NET_Training/project/obj/Debug/net8.0/ref/project.dll
